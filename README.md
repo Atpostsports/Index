@@ -1,6 +1,6 @@
-# BetStamp - Sports Betting Picks Website
+# At Post Sports - Sports Betting Picks Website
 
-A professional, modern landing page for BetStamp sports betting picks service featuring three subscription tiers, social media integration, and a clean, conversion-focused design.
+A professional, modern landing page for sports betting picks service featuring three subscription tiers, social media integration, and a clean, conversion-focused design.
 
 ## 🎨 Design Features
 
