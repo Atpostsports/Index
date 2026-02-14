@@ -138,7 +138,6 @@ Find the pricing cards (around line ~700) and update:
 - **Social Proof**: Stats, testimonials, and member count
 - **Urgency**: "Most Popular" badge on recommended tier
 - **Transparency**: All features clearly listed
-- **Risk Reversal**: Money-back guarantee mentioned
 - **Clear Value Proposition**: ROI and win rates prominently displayed
 
 ## 🔧 Recommended Enhancements
@@ -173,13 +172,3 @@ For customization help or questions:
 - Discord:discord.com/channels/1472053481937572054/1472080193685295327
 - Email: ATPOSTSPORTS@GMAIL.COM
 - Twitter: @ATPOSTSPORTS
-
-## 📄 License
-
-This template is provided as-is for BetStamp. Feel free to modify and customize as needed.
-
----
-
-**Last Updated**: February 2024  
-**Version**: 1.0.0  
-**Built for**: BetStamp Sports Betting Picks
