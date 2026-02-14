@@ -25,13 +25,13 @@ A professional, modern landing page for BetStamp sports betting picks service fe
 ### Option 1: GitHub UI (Easiest)
 
 1. Create a new repository on GitHub
-2. Name it `betstamp-website` (or any name you prefer)
+2. Name it `atpostsports-website` (or any name you prefer)
 3. Upload the `index.html` file
 4. Go to Settings → Pages
 5. Under "Source", select "Deploy from a branch"
 6. Select "main" branch and "/ (root)" folder
 7. Click Save
-8. Your site will be live at: `https://yourusername.github.io/betstamp-website`
+8. Your site will be live at: `https://yourusername.github.io/atpostsports-website`
 
 ### Option 2: Command Line
 
@@ -43,10 +43,10 @@ git init
 git add index.html README.md
 
 # Commit
-git commit -m "Initial commit: BetStamp website"
+git commit -m "Initial commit: atpostsports website"
 
 # Add your GitHub repository as remote
-git remote add origin https://github.com/yourusername/betstamp-website.git
+git remote add origin https://github.com/yourusername/atpostsports-website.git
 
 # Push to GitHub
 git branch -M main
@@ -59,7 +59,7 @@ git push -u origin main
 
 1. Open GitHub Desktop
 2. File → New Repository
-3. Name: `betstamp-website`
+3. Name: `atpostsports-website`
 4. Create Repository
 5. Copy `index.html` into the repository folder
 6. Commit changes
@@ -74,9 +74,9 @@ Find these lines in the HTML and replace with your actual URLs:
 
 ```html
 <!-- Line ~580 -->
-<a href="https://twitter.com/betstamp" target="_blank" class="social-link">
-<a href="https://instagram.com/betstamp" target="_blank" class="social-link">
-<a href="https://discord.gg/betstamp" target="_blank" class="social-link">
+<a href="https://twitter.com/atpostsports" target="_blank" class="social-link">
+<a href="https://instagram.com/atpostsports" target="_blank" class="social-link">
+<a href="https://discord.gg/atpostsports" target="_blank" class="social-link">
 ```
 
 ### Updating Statistics
